@@ -17,4 +17,4 @@ I build interfaces and tools that make **what a system does not know** visible â
 
 Working prototypes rather than decks. Decisions written down with the reason. Results reported with the sample size and the limits attached.
 
-One of these projects is a pre-registered paper-trading test that came back negative at its own stopping rule. I recorded the negative result and stopped, rather than retelling it as a success.
+In a separate [paper-trading research project](https://github.com/tommhci/polymarket-clv-tracker), I documented a negative result against a pre-registered stopping rule rather than presenting it as a successful strategy.
